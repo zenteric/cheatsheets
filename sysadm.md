@@ -1,9 +1,6 @@
 # Awesome Sysadmin
 A curated list of amazingly awesome open source sysadmin resources.
 
-## Contributing
-Please read [CONTRIBUTING](./CONTRIBUTING.md) if you wish to add software.
-
 ## Table of Contents
 * [Awesome Sysadmin](#awesome-sysadmin)
   * [Backups](#backups)
